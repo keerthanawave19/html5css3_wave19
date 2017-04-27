@@ -1,0 +1,111 @@
+body{
+margin:0;
+background-image: url("../image/bk1.jpg")
+}
+
+.head{
+	position: fixed;
+	background:url("../image/x.jpg");
+	background-repeat: no-repeat;
+	background-size: 1000px ;
+	height:200px;
+	font-family: sans-serif;
+	font-size: 40px;
+	font-style: bold;
+	text-shadow: 5px 10px 10px grey;
+	margin-bottom: 10px;
+	float: left;
+	color:black;
+	background-color:#a3f441;
+}
+li{
+	list-style: none;
+	display: inline;
+	font-size: 20px;
+	float: right;
+	padding-right: 10px;
+	margin-top: 60px;
+
+
+}
+.sections{
+	margin-top:140px;
+}
+a
+{
+	text-decoration: none;
+	color:white;
+}
+.grid_4
+	{
+		background-color: white;
+
+		width: 380px;
+		height:665px;
+		margin-top: 42px;
+		
+		}
+		p
+		{
+			text-align: justify;
+			padding-left: 10px;
+			padding-right: 10px;
+		}
+	
+	.highlight
+	{
+		background-image: url("../image/new.jpg");
+		background-repeat: no-repeat;
+		height:200px;
+		margin:0px 25px;
+		background-size: 1200px;
+		text-shadow: 5px 10px 10px white;
+
+		font-size: 60px;
+		color: #ef1a88;
+		background-color: grey;
+}
+
+.one
+{
+	background-image: url("../image/book.jpg");
+	background-repeat: no-repeat;
+	height:200px;
+	background-size: 220px;
+	font-size: 30px;
+	background-color: white;
+	background-position: right;
+	
+
+}
+.two{
+	background-image: url("../image/book1.jpg");
+	background-repeat: no-repeat;
+	background-size: 200px;
+	float: left;
+	height:200px;
+	background-color: white;
+	background-position: right;
+	
+
+}
+
+	 .rights
+	{
+		float: left;
+		font-size: 20px;
+		margin-bottom: 20px;
+		padding-bottom: 10px;
+		
+	}
+	.symbols
+	{
+		float: right;
+        font-size: 30px;
+	}
+	.footer{
+	background:url("../image/x.jpg");
+	background-repeat: no-repeat;
+	background-size: 1000px;
+	}
+	
